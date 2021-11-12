@@ -11,6 +11,7 @@
 ## Detailed description
 
 The hnap_main function in the cgibin handler uses sprintf to format the soapaction header onto the stack and has no limit on the size
+![image](https://user-images.githubusercontent.com/74939940/141448662-8774a281-e3bb-489c-8148-e771e9bc122a.png)
 
 ## POC
 
